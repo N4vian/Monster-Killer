@@ -1,0 +1,11 @@
+{
+  "name": "monster-killer",
+  "version": "0.0.1",
+  "description": "JS app where you slay monsters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
